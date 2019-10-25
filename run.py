@@ -8,20 +8,26 @@ import sys
 import salt.scripts
 import salt.utils.platform
 
+## DGM Junos
+## AVAIL = (
+##         'minion',
+##         'master',
+##         'call',
+##         'api',
+##         'cloud',
+##         'cp',
+##         'extend',
+##         'key',
+##         'proxy',
+##         'run',
+##         'ssh',
+##         'support',
+##         'syndic',
+##         )
+
 AVAIL = (
         'minion',
-        'master',
         'call',
-        'api',
-        'cloud',
-        'cp',
-        'extend',
-        'key',
-        'proxy',
-        'run',
-        'ssh',
-        'support',
-        'syndic',
         )
 
 
