@@ -16,20 +16,20 @@ from pip._internal.cli.main import main
 
 AVAIL = (
         'minion',
-##        'master',
+        'master',
         'call',
-##        'api',
-##        'cloud',
-##        'cp',
-##        'extend',
-##        'key',
-##        'proxy',
-##        'pip',
-##        'run',
-##        'shell',
-##        'ssh',
-##        'support',
-##        'syndic',
+        'api',
+        'cloud',
+        'cp',
+        'extend',
+        'key',
+        'proxy',
+        'pip',
+        'run',
+        'shell',
+        'ssh',
+        'support',
+        'syndic',
         )
 
 
